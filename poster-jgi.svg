@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster-jgi.svg">
+   sodipodi:docname="poster-jgi-draft2.pdf">
   <defs
      id="defs4">
     <marker
@@ -30951,9 +30951,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5424575"
-     inkscape:cx="1751.9769"
-     inkscape:cy="849.5125"
+     inkscape:zoom="1.5343015"
+     inkscape:cx="2459.3261"
+     inkscape:cy="1747.9252"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57838,10 +57838,10 @@ TPFc8csba5o6+YhRnj0qdHAPowugQeeCDkUUUATPZeMHQr/b2iLnuNHlyP8AyaoFj4uBz/bmh5zn
              id="text267453">
             <tspan
                style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:BitstreamVeraSans-Roman"
-               x="0 8.2080002 14.46 19.164 26.784 34.391998 41.736 49.368 55.368 65.183998 72.528 78.528 87.503998"
-               y="0"
                sodipodi:role="line"
-               id="tspan267455">Astpho1_wo_Ns</tspan>
+               id="tspan267455"
+               x="0"
+               y="0">Reference</tspan>
           </text>
           <path
              inkscape:connector-curvature="0"
@@ -57870,10 +57870,10 @@ TPFc8csba5o6+YhRnj0qdHAPowugQeeCDkUUUATPZeMHQr/b2iLnuNHlyP8AyaoFj4uBz/bmh5zn
              id="text267465">
             <tspan
                style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:BitstreamVeraSans-Roman"
-               x="0 7.3439999 19.032 26.412001 34.032001 41.388 45.720001 53.34 60.959999 68.568001 75.912003 80.844002 92.531998 96.863998 104.208 107.544 115.176 122.808"
-               y="0"
                sodipodi:role="line"
-               id="tspan267467">omega-bbnorm-ol200</tspan>
+               id="tspan267467"
+               x="0"
+               y="0">Omega</tspan>
           </text>
           <path
              inkscape:connector-curvature="0"
@@ -57956,7 +57956,7 @@ TPFc8csba5o6+YhRnj0qdHAPowugQeeCDkUUUATPZeMHQr/b2iLnuNHlyP8AyaoFj4uBz/bmh5zn
     </g>
     <g
        id="g268934"
-       transform="translate(-18.310098,402.86465)"
+       transform="translate(-6.310098,406.86465)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
@@ -58639,10 +58639,10 @@ TPFc8csba5o6+YhRnj0qdHAPowugQeeCDkUUUATPZeMHQr/b2iLnuNHlyP8AyaoFj4uBz/bmh5zn
              id="text268370">
             <tspan
                style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:BitstreamVeraSans-Roman"
-               x="0 8.3760004 11.712 19.068001 26.688 31.620001 39.251999 45.251999 55.068001 62.411999 68.412003 77.388"
-               y="0"
                sodipodi:role="line"
-               id="tspan268372">Clagr2_wo_Ns</tspan>
+               id="tspan268372"
+               x="0"
+               y="0">Reference</tspan>
           </text>
           <path
              inkscape:connector-curvature="0"
@@ -58671,10 +58671,10 @@ TPFc8csba5o6+YhRnj0qdHAPowugQeeCDkUUUATPZeMHQr/b2iLnuNHlyP8AyaoFj4uBz/bmh5zn
              id="text268382">
             <tspan
                style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:BitstreamVeraSans-Roman"
-               x="0 7.3439999 19.032 26.412001 34.032001 41.388 45.720001 53.34 60.959999 68.568001 75.912003 80.844002 92.531998 96.863998 104.208 107.544 115.176 122.808"
-               y="0"
                sodipodi:role="line"
-               id="tspan268384">omega-bbnorm-ol200</tspan>
+               id="tspan268384"
+               x="0"
+               y="0">Omega</tspan>
           </text>
           <path
              inkscape:connector-curvature="0"
